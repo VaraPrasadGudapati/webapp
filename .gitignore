@@ -1,6 +1,6 @@
 target/
-.project
+*.project
 pom.xml
 prasad.txt
-.classpath
-.settings
+*.classpath
+*.settings
