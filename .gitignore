@@ -1,4 +1,6 @@
 target/
-project
-pom
-prasad
+.project
+pom.xml
+prasad.txt
+.classpath
+.settings
